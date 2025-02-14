@@ -1,0 +1,19 @@
+x=5
+y=3
+z=8
+x,y,z=5,3,8
+x=x+5
+x+=5
+x=x-5
+x-=5
+x=x*5
+x*=5
+x=x/5
+x/=5
+x=x%5
+x%=5
+x//=5 #tam bölme
+y**=5# üst alma oparatörü
+values=(1,2,3)
+x,y,z=values
+print(x,y,z)
